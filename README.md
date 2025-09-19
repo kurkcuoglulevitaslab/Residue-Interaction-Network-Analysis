@@ -1,6 +1,6 @@
 # **Residue Interaction Network (RIN) analysis**
 
-This repository provides scripts for performing **Residue Interaction Network (RIN) analysis** of biomolecular structures.
+This repository provides scripts for performing **Residue Interaction Network (RIN) analysis**.
 
 The workflow involves two main steps:  
 
